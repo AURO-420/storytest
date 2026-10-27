@@ -425,8 +425,7 @@ P-37审计裁决：购买SA-47A并替换歼-47时，原有升级是否返还积�
 裁决：A. 不返还积分，原有升级随歼-47一起失去
 补充说明：无
 
-[$github](app://connector_76869538009648d5b282a4bb21c3d157) [https://github.com/AURO-420/storytest/blob/main/ChatGPT-%E8%A7%A3%E5%86%B3%E5%B0%8F%E8%AF%B4AI%E5%91%B3-20261024-2029.md](https://github.com/AURO-420/storytest/blob/main/ChatGPT-%E8%A7%A3%E5%86%B3%E5%B0%8F%E8%AF%B4AI%E5%91%B3-20261024-2029.md)\
-[https://github.com/AURO-420/storytest/blob/main/%E5%85%B3%E4%BA%8E%E6%88%91%E8%A2%AB%E5%A4%A7%E8%BF%90%E6%92%9E%E6%AD%BB%E5%90%8E%E8%BD%AC%E7%94%9F%E6%88%90%E6%9C%BA%E5%A8%98%E8%BF%99%E6%A1%A3%E4%BA%8B%E5%84%BF.md](https://github.com/AURO-420/storytest/blob/main/%E5%85%B3%E4%BA%8E%E6%88%91%E8%A2%AB%E5%A4%A7%E8%BF%90%E6%92%9E%E6%AD%BB%E5%90%8E%E8%BD%AC%E7%94%9F%E6%88%90%E6%9C%BA%E5%A8%98%E8%BF%99%E6%A1%A3%E4%BA%8B%E5%84%BF.md) 我上传了两个新文件，你看看，参考一下
+来源记录：作者当时补充了两份参考资料。对应原始对话见 [解决小说AI味（2026-10-24）](../duihua/ChatGPT-解决小说AI味-20261024-2029.md)，参考文件为仓库根目录的 [SA-47A.txt](../SA-47A.txt)、[T-90M竞技场.txt](../T-90M竞技场.txt) 与小说正文。
 
 ### 2026/10/24 21:21:01｜原始对话行 1686
 
